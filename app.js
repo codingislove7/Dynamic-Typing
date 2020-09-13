@@ -1,7 +1,7 @@
 // selectors
 const message = document.querySelector(".message");
 const playText = document.querySelector("textarea");
-const button = document.querySelector(".btn");
+const button = document.querySelector(".start");
 const typeThis = document.querySelector("h5");
 
 //  words for challenge
